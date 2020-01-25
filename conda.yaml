@@ -14,7 +14,7 @@ dependencies:
   - python=2.7
   - seaborn
   - tabulate
-  - tensorflow
+  - tensorflow=0.12.1
   - pip:
     # - tensorflow==1.14.0
     # - setuptools==40.6.3
